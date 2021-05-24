@@ -1,9 +1,5 @@
 # hello-world
-my first repository
+my first Repository
 
-Hello fellow americans
 
-can i offer you a Big Mac with fries with a side of obesity
-
-haha. jk. i dont know what i am typing.
-
+I am well versed in python, c#, and Ansible.
